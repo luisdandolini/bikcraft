@@ -8,11 +8,6 @@
     gap: 20px;
     justify-content: space-between;
     align-items: center;
-    box-sizing: border-box;
-    padding: 20px;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .header-menu {
@@ -24,10 +19,7 @@
 .header-menu a {
     padding: 16px 0px;
     display: inline-block;
-    font-size: 18px;
     position: relative;
-    font-family: 'Poppins';
-    font-weight: 400;
 }
 
 .header-menu a:after {
