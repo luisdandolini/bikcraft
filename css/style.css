@@ -17,3 +17,6 @@
 
 /* PARCEIROS */
 @import "./home/parceiros.css";
+
+/* SEGUROS */
+@import "./seguros/seguros.css";
