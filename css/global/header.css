@@ -45,7 +45,7 @@
     }
 
     .header-menu a {
-        background: var(--cor11);
+        background: var(--cor-11);
         padding: 12px 16px;
         border-radius: 5px;
     }
