@@ -19,6 +19,7 @@
 
 /* BICICLETAS INTERNA*/
 @import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
 
 /* PARCEIROS */
 @import "./home/parceiros.css";
